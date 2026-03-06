@@ -1,0 +1,9 @@
+C:\TTA_ZOHO\TTA_ZOHO02272026\bin\Debug\TTA_ZOHO.dll
+C:\TTA_ZOHO\TTA_ZOHO02272026\bin\Debug\TTA_ZOHO.pdb
+C:\TTA_ZOHO\TTA_ZOHO02272026\bin\Debug\Newtonsoft.Json.dll
+C:\TTA_ZOHO\TTA_ZOHO02272026\bin\Debug\Newtonsoft.Json.xml
+C:\TTA_ZOHO\TTA_ZOHO02272026\obj\Debug\TTA_ZOHO.csproj.AssemblyReference.cache
+C:\TTA_ZOHO\TTA_ZOHO02272026\obj\Debug\TTA_ZOHO.csproj.CoreCompileInputs.cache
+C:\TTA_ZOHO\TTA_ZOHO02272026\obj\Debug\TTA_ZOHO.csproj.Up2Date
+C:\TTA_ZOHO\TTA_ZOHO02272026\obj\Debug\TTA_ZOHO.dll
+C:\TTA_ZOHO\TTA_ZOHO02272026\obj\Debug\TTA_ZOHO.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TTA_ZOHO\\TTA_ZOHO02272026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521B14-167F-43DC-B322-E50B3AA5DBCC}|TTA_ZOHO.csproj|c:\\tta_zoho\\tta_zoho02272026\\zohouploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521B14-167F-43DC-B322-E50B3AA5DBCC}|TTA_ZOHO.csproj|solutionrelative:zohouploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZohoUploader.cs",
+              "DocumentMoniker": "C:\\TTA_ZOHO\\TTA_ZOHO02272026\\ZohoUploader.cs",
+              "RelativeDocumentMoniker": "ZohoUploader.cs",
+              "ToolTip": "C:\\TTA_ZOHO\\TTA_ZOHO02272026\\ZohoUploader.cs",
+              "RelativeToolTip": "ZohoUploader.cs",
+              "ViewState": "AgIAAFYDAAAAAAAAAAAAwFgDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:14:21.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
